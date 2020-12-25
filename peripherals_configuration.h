@@ -1,0 +1,7 @@
+#ifndef PERIPHERALS_CONFIGURATION_H_
+#define PERIPHERALS_CONFIGURATION_H_
+
+int Input_output(void);
+
+
+#endif /* PERIPHERALS_CONFIGURATION_H_ */
